@@ -1,0 +1,7 @@
+As an Admin, I want to set the available meals and their prices
+As an Admin, I want to see the service's statistics to analyze them
+As an Admin, I want to create special offers for specific meals to manage "packages" and sales
+As an Admin, I want to trace and check every payment to verify its correctness
+As an Admin, I want to offer one-off deals and free meals to account for scholarships and employee bonuses
+As an Admin, I want to define a web authentication process to enable access to the services from outside the cafeteria
+As an Admin, I want to post notices about the cafeteria, to warn consumers about changes in opening and closing hours or other important news

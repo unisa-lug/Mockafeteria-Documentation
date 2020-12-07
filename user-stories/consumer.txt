@@ -1,0 +1,8 @@
+As a Consumer, I want to buy a meal to consume it
+As a Consumer, I want to reserve a meal to consume it later
+As a Consumer, I want to use a cafeteria card to pay for the service
+As a Consumer, I want to reload my cafeteria card to pay for the service
+As a Consumer, I want to request a cafeteria card to access the services
+As a Consumer, I want to access the system from a web device to use the services from outside the cafeteria
+As a Consumer, I want to check on notices from the cafeteria to know about opening and closing hours and other important news
+As a Consumer, I want to check the available meals, to know what today's menu is

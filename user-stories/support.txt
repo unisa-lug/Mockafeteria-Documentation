@@ -1,0 +1,2 @@
+As Support, I want to undo a transaction to account for human error in the usage of the services
+As Support, I want to generate and void cafeteria cards to manage access to the cafeteria and account for lost or stolen cards
